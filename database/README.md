@@ -14,7 +14,7 @@ Les habitats sont regroupés au sein d'une unité écologique qui représente su
 
 Une unité écologique peut contenir un ou plusiers habitats : on parle alors de mosaïque d'habitats au sein de l'unité écologique (_cf. p13 du standard pour les définitions de mosaïques, correspondances et superpositions_).
 
-## Correspondances avec le modèle conceptuel de données du standard et tables centrales
+### Correspondances avec le modèle conceptuel de données du standard et tables centrales
 
 - la table ***Evenement*** du standard contient les informations de l'objet géographique, l'observateur, la date d'observation et le type de mosaïque. Elle correspond à la table ***unite_ecologique*** de notre base de données.
 
