@@ -1,4 +1,4 @@
-# DigitHab_db
+# DigitHab-db
 
 ## Digitalisation des habitats naturels selon le standard du SINP
 

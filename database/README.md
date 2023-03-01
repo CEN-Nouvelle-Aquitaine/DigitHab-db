@@ -1,4 +1,4 @@
-# DigitHab_db
+# DigitHab-db
 
 ## Concepts clés de la base de données
 
